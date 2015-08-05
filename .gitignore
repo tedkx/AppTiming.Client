@@ -1,0 +1,8 @@
+*.suo
+/nuget/*.nupkg
+/nuget/*.txt
+/src/AppTiming.Client/bin
+/src/AppTiming.Client/obj
+/src/AppTiming.Client.Tests/bin
+/src/AppTiming.Client.Tests/obj
+/src/packages

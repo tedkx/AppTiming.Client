@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTiming.Client", "AppTiming.Client\AppTiming.Client.csproj", "{A1EC713A-2FD7-41C0-8F91-5F23F13CF3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTiming.Client.Tests", "AppTiming.Client.Tests\AppTiming.Client.Tests.csproj", "{7B538D86-77B7-4B6D-852E-0BDFA7277898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1EC713A-2FD7-41C0-8F91-5F23F13CF3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EC713A-2FD7-41C0-8F91-5F23F13CF3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EC713A-2FD7-41C0-8F91-5F23F13CF3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EC713A-2FD7-41C0-8F91-5F23F13CF3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B538D86-77B7-4B6D-852E-0BDFA7277898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B538D86-77B7-4B6D-852E-0BDFA7277898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B538D86-77B7-4B6D-852E-0BDFA7277898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B538D86-77B7-4B6D-852E-0BDFA7277898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
